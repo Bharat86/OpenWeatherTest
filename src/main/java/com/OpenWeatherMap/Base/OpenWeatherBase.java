@@ -30,7 +30,6 @@ public class OpenWeatherBase {
 			// TODO Auto-generated catch block
 			e.printStackTrace();
 		}
-	 
  }
  
  public void intialization() {
