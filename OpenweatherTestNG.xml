@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="OpenWeatheMapTest">
+  <test name="OpenWeatheMap ValidateHomePage">
+    <classes>
+      <class name="com.OpenWealthMaptest.Test.ValidateHomePage"/>
+    </classes>
+  </test>
+  <test name="OpenWeatheMap ValidateInvalidcityName">
+    <classes>
+      <class name="com.OpenWealthMaptest.Test.ValidateInvalidcityName"/>
+    </classes>
+  </test>
+  
+</suite>

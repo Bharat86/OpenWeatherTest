@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="OpenWeatheMapTest" duration-ms="90287" started-at="2019-04-16T11:07:15Z" finished-at="2019-04-16T11:08:45Z">
+    <groups>
+    </groups>
+    <test name="OpenWeatheMap ValidateHomePage" duration-ms="50888" started-at="2019-04-16T11:07:15Z" finished-at="2019-04-16T11:08:06Z">
+      <class name="com.OpenWealthMaptest.Test.ValidateHomePage">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.OpenWealthMaptest.Test.ValidateHomePage@61832929]" name="setUp" is-config="true" duration-ms="49276" started-at="2019-04-16T11:07:15Z" finished-at="2019-04-16T11:08:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="testhomePagelables()[pri:0, instance:com.OpenWealthMaptest.Test.ValidateHomePage@61832929]" name="testhomePagelables" duration-ms="750" started-at="2019-04-16T11:08:04Z" finished-at="2019-04-16T11:08:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testhomePagelables -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.OpenWealthMaptest.Test.ValidateHomePage@61832929]" name="teardown" is-config="true" duration-ms="828" started-at="2019-04-16T11:08:05Z" finished-at="2019-04-16T11:08:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.OpenWealthMaptest.Test.ValidateHomePage -->
+    </test> <!-- OpenWeatheMap ValidateHomePage -->
+    <test name="OpenWeatheMap ValidateInvalidcityName" duration-ms="39367" started-at="2019-04-16T11:08:06Z" finished-at="2019-04-16T11:08:45Z">
+      <class name="com.OpenWealthMaptest.Test.ValidateInvalidcityName">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.OpenWealthMaptest.Test.ValidateInvalidcityName@204f30ec]" name="setUp" is-config="true" duration-ms="33860" started-at="2019-04-16T11:08:06Z" finished-at="2019-04-16T11:08:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="ValidateInvalidCityData()[pri:0, instance:com.OpenWealthMaptest.Test.ValidateInvalidcityName@204f30ec]" name="ValidateInvalidCityData" duration-ms="4714" started-at="2019-04-16T11:08:40Z" finished-at="2019-04-16T11:08:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ValidateInvalidCityData -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.OpenWealthMaptest.Test.ValidateInvalidcityName@204f30ec]" name="teardown" is-config="true" duration-ms="791" started-at="2019-04-16T11:08:44Z" finished-at="2019-04-16T11:08:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.OpenWealthMaptest.Test.ValidateInvalidcityName -->
+    </test> <!-- OpenWeatheMap ValidateInvalidcityName -->
+  </suite> <!-- OpenWeatheMapTest -->
+</testng-results>
